@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BRMailCore"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Dynamic framework wrapper for mailcore2-ios"
 
   s.description  = <<-DESC
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/MailCore/mailcore2"
   
-  s.license      = "MIT (example)"
+ s.license      = { :type => "MIT", :file => "LICENSE" }
 
   s.author       = { "Danny Panzer" => "danny.panzer@microblink.com" }
 
