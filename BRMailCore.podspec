@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BRMailCore"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Dynamic framework wrapper for mailcore2-ios"
 
   s.description  = <<-DESC
