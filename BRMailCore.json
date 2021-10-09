@@ -1,3 +1,4 @@
 {
-        "0.0.3": "https://github.com/BlinkReceipt/BRMailCore/releases/download/0.0.3/MailCore.framework.zip"
+        "0.0.3": "https://github.com/BlinkReceipt/BRMailCore/releases/download/0.0.3/MailCore.framework.zip",
+        "0.1.0": "https://github.com/BlinkReceipt/BRMailCore/releases/download/0.1.0/MailCore.xcframework.zip"
 }

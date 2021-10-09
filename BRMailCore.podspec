@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BRMailCore"
-  s.version      = "0.0.3"
+  s.version      = "0.1.0"
   s.summary      = "Dynamic framework wrapper for mailcore2-ios"
 
   s.description  = <<-DESC
@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/BlinkReceipt/BRMailCore.git", :tag => "#{s.version}" }
 
-  s.vendored_frameworks = "MailCore.framework"
+  s.vendored_frameworks = "MailCore.xcframework"
 
 end
